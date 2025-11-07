@@ -1,1 +1,2 @@
 # model-analisis-sentimen-mysf
+# Model Analisis Sentimen Ulasan Aplikasi MySF dengan BERT is an analysis model developed using Python and BERT method to compile the user’s review data of MySF application from Google Playstore and turn them into information containing user sentiments, classified into positive, neutral, and negative categories. This makes it easier for the application developers to understand user sentiment towards the services offered by MySF.
